@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cc35a727fe8f9ca44937fa73936eaa8c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Barlock
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3be74493627d2ea4593f74ac72140821, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
